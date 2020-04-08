@@ -1,6 +1,5 @@
-# getkcal
-
 <div align="center"><img src="./starterkit/assets/images/logo.svg" alt="GetKcal"></div>
+# Calculadora de Calorias com JavaScript Vanilla
 
 ## Executando a aplicação
 
