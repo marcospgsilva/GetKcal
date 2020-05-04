@@ -1,6 +1,7 @@
 <div align="center"><img src="./starterkit/assets/images/logo.svg" alt="GetKcal"></div>
 
 ## Calculadora de Calorias com JavaScript Vanilla
+Projeto ministrado por Mateus Silva, disponível no canal Mateus Silva no Youtube.
 
 ## Executando a aplicação
 
